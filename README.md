@@ -5,3 +5,5 @@
 [BodyNet: Volumetric Inference of 3D Human Body Shapes (ECCV2018)](notes/Bodynet.md)
 
 [Learning from Synthetic Humans (CVPR2017)](notes/learning_from_synthetic_humans.md)
+
+[SMPL: A Skinned Multi-Person Linear Model (CVPR2015)](notes/SMPL.md)
