@@ -10,4 +10,6 @@
 
 [Designing Deep Networks for Surface Normal Estimation (CVPR2015)](notes/Designing_Deep_Networks_for_Surface_Normal_Estimation.md)
 
-[Learning to Reconstruct Texture-less Deformable Surfaces from a Single View (2018)](notes/learning_to_reconstruct_texture-less_deformable_surface.md)
+[Learning to Reconstruct Texture-less Deformable Surfaces from a Single View (CVPR2018)](notes/learning_to_reconstruct_texture-less_deformable_surface.md)
+
+[GeoNet: Geometric Neural Network for Joint Depth and Surface Normal Estimation (CVPR2018)](notes/GeoNet.md)
